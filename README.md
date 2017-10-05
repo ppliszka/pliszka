@@ -1,1 +1,2 @@
-# pliszka
+cd /d
+cd /mojfolder
